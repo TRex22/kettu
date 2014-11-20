@@ -1,4 +1,14 @@
 # kettu
+Note: I have cloned this repo from @endor, to make some changes and add my own additions to the project.
+At some point I may change the theme, it is the nicest I have seen so far but is a bit bright for me.
+
+TODO:
+	0. Add some more filter buttons
+	1. rename some stuff
+	2. graphical statistics
+	3. Add more data collection (statistics) ? unknown if this is possible
+	4. Perhaps modify transmission and allow the web-ui to detect and then use those modifications
+
 Port of http://github.com/kjg/derailleur and the original Transmission Web Client
 using [jquery](http://jquery.com), [sammy.js](http://github.com/quirkey/sammy) and [mustache.js](http://github.com/janl/mustache.js).
 
